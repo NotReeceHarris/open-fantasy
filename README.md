@@ -1,2 +1,2 @@
 # ⚔️ open-fantasy
-open source web based fantasy mmo rpg
+open source web-based fantasy MMO RPG
